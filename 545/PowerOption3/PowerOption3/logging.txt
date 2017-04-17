@@ -1,0 +1,24 @@
+New Logger: *******************************************************
+INFO: Input
+strike: 100.000000
+spot: 100.000000
+power: 2.000000
+expiry: 10.000000
+volatility: 0.020000
+interest rate: 0.020000
+number of paths: 100
+INFO: Output
+call price of power option: 12238.798846
+put price of power option: 0.000000
+New Logger: *******************************************************
+INFO: Input
+strike: 10.000000
+spot: 10.000000
+power: 1.000000
+expiry: 1.000000
+volatility: 0.010000
+interest rate: 0.020000
+number of paths: 100
+INFO: Output
+call price of power option: 0.201551
+put price of power option: 0.001949

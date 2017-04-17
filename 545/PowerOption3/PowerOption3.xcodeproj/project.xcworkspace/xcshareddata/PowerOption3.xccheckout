@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5942E17B-2F14-4B93-8547-888DCCFDA8DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PowerOption3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D327979F5B7A298C490615B3143DEC95ACFF2B1A</key>
+		<string>https://github.com/jerryxyx/CPP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PowerOption3/PowerOption3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D327979F5B7A298C490615B3143DEC95ACFF2B1A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jerryxyx/CPP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D327979F5B7A298C490615B3143DEC95ACFF2B1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D327979F5B7A298C490615B3143DEC95ACFF2B1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C++</string>
+		</dict>
+	</array>
+</dict>
+</plist>
